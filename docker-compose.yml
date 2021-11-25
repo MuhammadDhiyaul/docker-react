@@ -1,7 +1,7 @@
 version: "3"
 services:
   web:
-    image: doyatama/hello-react:latest
+    image: 2041723007/docker-react:latest
     container_name: web
     restart: unless-stopped
     ports:
